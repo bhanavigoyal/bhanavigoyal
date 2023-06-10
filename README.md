@@ -11,8 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=bhanavigoyal&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanavigoyal&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhanavigoyal&theme=nightowl&hide_border=true)
-![](https://github-contributor-stats.vercel.app/api?username=bhanavigoyal&limit=5&theme=nightowl&hide_border=true&combine_all_yearly_contributions=true)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bhanavigoyal&icon=5&color=0)](https://visitcount.itsvg.in)
